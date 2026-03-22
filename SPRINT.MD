@@ -28,3 +28,19 @@
 * Cancelamento de agendamento - Gabriel - PARA 10/04
 
 * Notificação de lembrete - Gabriel - PARA 10/04
+
+
+# SPRINT 3 :
+
+* Histórico de agendamentos - Guilherme - PARA 17/04
+
+* Perfil do cliente (edição de dados) - Guilherme - PARA 17/04
+
+* Perfil do barbeiro - Guilherme - PARA 17/04
+
+* Avaliação (nota + comentários) -
+Gabriel - PARA 17/04
+
+* Upload de fotos (portfólio de cortes) - Gabriel - PARA 17/04
+
+* Filtros(preço, distância, avaliação) - Gabriel - PARA 17/04
