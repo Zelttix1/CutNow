@@ -59,15 +59,24 @@ Gabriel - PARA 17/04
 
 # SPRINT 5 
 
-* Chat cliente <-> barbearia 
+* Chat cliente <-> barbearia - Guilherme - PARA 30/04
 
-* Sistema de recomendação (IA)
+* Sistema de recomendação (IA) - Guilherme - PARA 30/04
 
-* Sugestão de horários inteligentes
+* Sugestão de horários inteligentes - Gabriel - PARA 30/04
 
-* Destaque de barbearias
+* Destaque de barbearias - Gabriel - PARA 30/04
 
 
+# SPRINT 6 
+
+* Plano premium para barbearias - Guilherme - PARA 08/05
+
+* Programa de fidelidade (pontos) - Guilherme - PARA 08/05
+
+* Relatórios financeiros - Gabriel - PARA 08/05
+
+* Gestão de agenda do barbeiro (painel admin) - Gabriel - PARA 08/05
 
 
 
