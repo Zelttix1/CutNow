@@ -44,3 +44,17 @@ Gabriel - PARA 17/04
 * Upload de fotos (portfólio de cortes) - Gabriel - PARA 17/04
 
 * Filtros(preço, distância, avaliação) - Gabriel - PARA 17/04
+
+
+# SPRINT 4 : 
+
+* Reagendamento fácil - Guilherme - PARA 24/04
+
+* Integração com calendário - Guilherme - PARA 24/04
+
+* Sistema de cupons - Gabriel - PARA 24/04
+
+* Pagamento online (Pix/cartão) - Gabriel - PARA 24/04
+
+
+
