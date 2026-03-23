@@ -57,4 +57,18 @@ Gabriel - PARA 17/04
 * Pagamento online (Pix/cartão) - Gabriel - PARA 24/04
 
 
+# SPRINT 5 
+
+* Chat cliente <-> barbearia 
+
+* Sistema de recomendação (IA)
+
+* Sugestão de horários inteligentes
+
+* Destaque de barbearias
+
+
+
+
+
 
