@@ -24,45 +24,4 @@ Implementação da funcionalidade para escolha do barbeiro durante o agendamento
 ### Escolha de data e horário
 Criação da interface e lógica para seleção de datas e horários disponíveis.
 
----
 
-## SPRINT 3
-
-### Histórico de agendamentos
-Desenvolvimento da funcionalidade para exibir agendamentos passados e futuros do usuário.
-
-### Perfil do cliente
-Implementação da edição de dados do usuário, como nome, email e senha.
-
-### Perfil do barbeiro
-Criação do perfil do barbeiro com informações profissionais e disponibilidade.
-
----
-
-## SPRINT 4
-
-### Reagendamento fácil
-Implementação de funcionalidade para alteração rápida de horários já agendados.
-
-### Integração com calendário
-Integração do sistema com calendário para visualização dos agendamentos.
-
----
-
-## SPRINT 5
-
-### Chat cliente <-> barbearia
-Desenvolvimento de sistema de mensagens entre cliente e barbearia.
-
-### Sistema de recomendação (IA)
-Implementação de lógica básica para recomendação de serviços/barbearias com base no comportamento do usuário.
-
----
-
-## SPRINT 6
-
-### Plano premium para barbearias
-Criação de funcionalidade para assinatura de plano premium com benefícios extras.
-
-### Programa de fidelidade
-Desenvolvimento de sistema de pontos para clientes frequentes.
