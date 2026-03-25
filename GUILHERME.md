@@ -56,3 +56,13 @@ Desenvolvimento de sistema de mensagens entre cliente e barbearia.
 
 ### Sistema de recomendação (IA)
 Implementação de lógica básica para recomendação de serviços/barbearias com base no comportamento do usuário.
+
+---
+
+## SPRINT 6
+
+### Plano premium para barbearias
+Criação de funcionalidade para assinatura de plano premium com benefícios extras.
+
+### Programa de fidelidade
+Desenvolvimento de sistema de pontos para clientes frequentes.
