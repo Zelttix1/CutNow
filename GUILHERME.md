@@ -47,3 +47,12 @@ Implementação de funcionalidade para alteração rápida de horários já agen
 ### Integração com calendário
 Integração do sistema com calendário para visualização dos agendamentos.
 
+---
+
+## SPRINT 5
+
+### Chat cliente <-> barbearia
+Desenvolvimento de sistema de mensagens entre cliente e barbearia.
+
+### Sistema de recomendação (IA)
+Implementação de lógica básica para recomendação de serviços/barbearias com base no comportamento do usuário.
