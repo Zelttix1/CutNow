@@ -24,4 +24,16 @@ Implementação da funcionalidade para escolha do barbeiro durante o agendamento
 ### Escolha de data e horário
 Criação da interface e lógica para seleção de datas e horários disponíveis.
 
+---
+
+## SPRINT 3
+
+### Histórico de agendamentos
+Desenvolvimento da funcionalidade para exibir agendamentos passados e futuros do usuário.
+
+### Perfil do cliente
+Implementação da edição de dados do usuário, como nome, email e senha.
+
+### Perfil do barbeiro
+Criação do perfil do barbeiro com informações profissionais e disponibilidade.
 
