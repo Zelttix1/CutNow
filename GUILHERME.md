@@ -37,3 +37,13 @@ Implementação da edição de dados do usuário, como nome, email e senha.
 ### Perfil do barbeiro
 Criação do perfil do barbeiro com informações profissionais e disponibilidade.
 
+---
+
+## SPRINT 4
+
+### Reagendamento fácil
+Implementação de funcionalidade para alteração rápida de horários já agendados.
+
+### Integração com calendário
+Integração do sistema com calendário para visualização dos agendamentos.
+
